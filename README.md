@@ -1,0 +1,2 @@
+# DECH
+DECH is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser.When an online store is set up to enable businesses to buy from another businesses, the process is called business-to-business (B2B) online shopping.The main purpose of this project is to manage all the details of product, product type, order, order item, etc.
